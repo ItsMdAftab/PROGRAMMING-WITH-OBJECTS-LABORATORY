@@ -1,0 +1,14 @@
+C:\Users\Aftab\source\repos\2.3NewDrivingLicience\2.3NewDrivingLicience\bin\Debug\net8.0\2.3NewDrivingLicience.exe
+C:\Users\Aftab\source\repos\2.3NewDrivingLicience\2.3NewDrivingLicience\bin\Debug\net8.0\2.3NewDrivingLicience.deps.json
+C:\Users\Aftab\source\repos\2.3NewDrivingLicience\2.3NewDrivingLicience\bin\Debug\net8.0\2.3NewDrivingLicience.runtimeconfig.json
+C:\Users\Aftab\source\repos\2.3NewDrivingLicience\2.3NewDrivingLicience\bin\Debug\net8.0\2.3NewDrivingLicience.dll
+C:\Users\Aftab\source\repos\2.3NewDrivingLicience\2.3NewDrivingLicience\bin\Debug\net8.0\2.3NewDrivingLicience.pdb
+C:\Users\Aftab\source\repos\2.3NewDrivingLicience\2.3NewDrivingLicience\obj\Debug\net8.0\2.3NewDrivingLicience.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aftab\source\repos\2.3NewDrivingLicience\2.3NewDrivingLicience\obj\Debug\net8.0\2.3NewDrivingLicience.AssemblyInfoInputs.cache
+C:\Users\Aftab\source\repos\2.3NewDrivingLicience\2.3NewDrivingLicience\obj\Debug\net8.0\2.3NewDrivingLicience.AssemblyInfo.cs
+C:\Users\Aftab\source\repos\2.3NewDrivingLicience\2.3NewDrivingLicience\obj\Debug\net8.0\2.3NewDrivingLicience.csproj.CoreCompileInputs.cache
+C:\Users\Aftab\source\repos\2.3NewDrivingLicience\2.3NewDrivingLicience\obj\Debug\net8.0\2.3NewDrivingLicience.dll
+C:\Users\Aftab\source\repos\2.3NewDrivingLicience\2.3NewDrivingLicience\obj\Debug\net8.0\refint\2.3NewDrivingLicience.dll
+C:\Users\Aftab\source\repos\2.3NewDrivingLicience\2.3NewDrivingLicience\obj\Debug\net8.0\2.3NewDrivingLicience.pdb
+C:\Users\Aftab\source\repos\2.3NewDrivingLicience\2.3NewDrivingLicience\obj\Debug\net8.0\2.3NewDrivingLicience.genruntimeconfig.cache
+C:\Users\Aftab\source\repos\2.3NewDrivingLicience\2.3NewDrivingLicience\obj\Debug\net8.0\ref\2.3NewDrivingLicience.dll
