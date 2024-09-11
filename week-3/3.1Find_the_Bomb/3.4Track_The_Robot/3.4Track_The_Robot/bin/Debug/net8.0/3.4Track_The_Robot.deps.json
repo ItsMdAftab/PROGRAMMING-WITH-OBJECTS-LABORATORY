@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "3.4Track_The_Robot/1.0.0": {
+        "runtime": {
+          "3.4Track_The_Robot.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "3.4Track_The_Robot/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

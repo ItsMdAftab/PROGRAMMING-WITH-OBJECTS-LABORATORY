@@ -1,0 +1,14 @@
+D:\IARE\SEM-3\c#\week-3\3.4Track_The_Robot\3.4Track_The_Robot\bin\Debug\net8.0\3.4Track_The_Robot.exe
+D:\IARE\SEM-3\c#\week-3\3.4Track_The_Robot\3.4Track_The_Robot\bin\Debug\net8.0\3.4Track_The_Robot.deps.json
+D:\IARE\SEM-3\c#\week-3\3.4Track_The_Robot\3.4Track_The_Robot\bin\Debug\net8.0\3.4Track_The_Robot.runtimeconfig.json
+D:\IARE\SEM-3\c#\week-3\3.4Track_The_Robot\3.4Track_The_Robot\bin\Debug\net8.0\3.4Track_The_Robot.dll
+D:\IARE\SEM-3\c#\week-3\3.4Track_The_Robot\3.4Track_The_Robot\bin\Debug\net8.0\3.4Track_The_Robot.pdb
+D:\IARE\SEM-3\c#\week-3\3.4Track_The_Robot\3.4Track_The_Robot\obj\Debug\net8.0\3.4Track_The_Robot.GeneratedMSBuildEditorConfig.editorconfig
+D:\IARE\SEM-3\c#\week-3\3.4Track_The_Robot\3.4Track_The_Robot\obj\Debug\net8.0\3.4Track_The_Robot.AssemblyInfoInputs.cache
+D:\IARE\SEM-3\c#\week-3\3.4Track_The_Robot\3.4Track_The_Robot\obj\Debug\net8.0\3.4Track_The_Robot.AssemblyInfo.cs
+D:\IARE\SEM-3\c#\week-3\3.4Track_The_Robot\3.4Track_The_Robot\obj\Debug\net8.0\3.4Track_The_Robot.csproj.CoreCompileInputs.cache
+D:\IARE\SEM-3\c#\week-3\3.4Track_The_Robot\3.4Track_The_Robot\obj\Debug\net8.0\3.4Track_The_Robot.dll
+D:\IARE\SEM-3\c#\week-3\3.4Track_The_Robot\3.4Track_The_Robot\obj\Debug\net8.0\refint\3.4Track_The_Robot.dll
+D:\IARE\SEM-3\c#\week-3\3.4Track_The_Robot\3.4Track_The_Robot\obj\Debug\net8.0\3.4Track_The_Robot.pdb
+D:\IARE\SEM-3\c#\week-3\3.4Track_The_Robot\3.4Track_The_Robot\obj\Debug\net8.0\3.4Track_The_Robot.genruntimeconfig.cache
+D:\IARE\SEM-3\c#\week-3\3.4Track_The_Robot\3.4Track_The_Robot\obj\Debug\net8.0\ref\3.4Track_The_Robot.dll
