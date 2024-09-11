@@ -1,0 +1,14 @@
+D:\IARE\SEM-3\c#\week-3\3.7Clear_Brackets\3.7Clear_Brackets\bin\Debug\net8.0\3.7Clear_Brackets.exe
+D:\IARE\SEM-3\c#\week-3\3.7Clear_Brackets\3.7Clear_Brackets\bin\Debug\net8.0\3.7Clear_Brackets.deps.json
+D:\IARE\SEM-3\c#\week-3\3.7Clear_Brackets\3.7Clear_Brackets\bin\Debug\net8.0\3.7Clear_Brackets.runtimeconfig.json
+D:\IARE\SEM-3\c#\week-3\3.7Clear_Brackets\3.7Clear_Brackets\bin\Debug\net8.0\3.7Clear_Brackets.dll
+D:\IARE\SEM-3\c#\week-3\3.7Clear_Brackets\3.7Clear_Brackets\bin\Debug\net8.0\3.7Clear_Brackets.pdb
+D:\IARE\SEM-3\c#\week-3\3.7Clear_Brackets\3.7Clear_Brackets\obj\Debug\net8.0\3.7Clear_Brackets.GeneratedMSBuildEditorConfig.editorconfig
+D:\IARE\SEM-3\c#\week-3\3.7Clear_Brackets\3.7Clear_Brackets\obj\Debug\net8.0\3.7Clear_Brackets.AssemblyInfoInputs.cache
+D:\IARE\SEM-3\c#\week-3\3.7Clear_Brackets\3.7Clear_Brackets\obj\Debug\net8.0\3.7Clear_Brackets.AssemblyInfo.cs
+D:\IARE\SEM-3\c#\week-3\3.7Clear_Brackets\3.7Clear_Brackets\obj\Debug\net8.0\3.7Clear_Brackets.csproj.CoreCompileInputs.cache
+D:\IARE\SEM-3\c#\week-3\3.7Clear_Brackets\3.7Clear_Brackets\obj\Debug\net8.0\3.7Clear_Brackets.dll
+D:\IARE\SEM-3\c#\week-3\3.7Clear_Brackets\3.7Clear_Brackets\obj\Debug\net8.0\refint\3.7Clear_Brackets.dll
+D:\IARE\SEM-3\c#\week-3\3.7Clear_Brackets\3.7Clear_Brackets\obj\Debug\net8.0\3.7Clear_Brackets.pdb
+D:\IARE\SEM-3\c#\week-3\3.7Clear_Brackets\3.7Clear_Brackets\obj\Debug\net8.0\3.7Clear_Brackets.genruntimeconfig.cache
+D:\IARE\SEM-3\c#\week-3\3.7Clear_Brackets\3.7Clear_Brackets\obj\Debug\net8.0\ref\3.7Clear_Brackets.dll
