@@ -1,0 +1,14 @@
+D:\IARE\SEM-3\c#\week-3\3.2FindingNemo\3.2FindingNemo\bin\Debug\net8.0\3.2FindingNemo.exe
+D:\IARE\SEM-3\c#\week-3\3.2FindingNemo\3.2FindingNemo\bin\Debug\net8.0\3.2FindingNemo.deps.json
+D:\IARE\SEM-3\c#\week-3\3.2FindingNemo\3.2FindingNemo\bin\Debug\net8.0\3.2FindingNemo.runtimeconfig.json
+D:\IARE\SEM-3\c#\week-3\3.2FindingNemo\3.2FindingNemo\bin\Debug\net8.0\3.2FindingNemo.dll
+D:\IARE\SEM-3\c#\week-3\3.2FindingNemo\3.2FindingNemo\bin\Debug\net8.0\3.2FindingNemo.pdb
+D:\IARE\SEM-3\c#\week-3\3.2FindingNemo\3.2FindingNemo\obj\Debug\net8.0\3.2FindingNemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\IARE\SEM-3\c#\week-3\3.2FindingNemo\3.2FindingNemo\obj\Debug\net8.0\3.2FindingNemo.AssemblyInfoInputs.cache
+D:\IARE\SEM-3\c#\week-3\3.2FindingNemo\3.2FindingNemo\obj\Debug\net8.0\3.2FindingNemo.AssemblyInfo.cs
+D:\IARE\SEM-3\c#\week-3\3.2FindingNemo\3.2FindingNemo\obj\Debug\net8.0\3.2FindingNemo.csproj.CoreCompileInputs.cache
+D:\IARE\SEM-3\c#\week-3\3.2FindingNemo\3.2FindingNemo\obj\Debug\net8.0\3.2FindingNemo.dll
+D:\IARE\SEM-3\c#\week-3\3.2FindingNemo\3.2FindingNemo\obj\Debug\net8.0\refint\3.2FindingNemo.dll
+D:\IARE\SEM-3\c#\week-3\3.2FindingNemo\3.2FindingNemo\obj\Debug\net8.0\3.2FindingNemo.pdb
+D:\IARE\SEM-3\c#\week-3\3.2FindingNemo\3.2FindingNemo\obj\Debug\net8.0\3.2FindingNemo.genruntimeconfig.cache
+D:\IARE\SEM-3\c#\week-3\3.2FindingNemo\3.2FindingNemo\obj\Debug\net8.0\ref\3.2FindingNemo.dll
