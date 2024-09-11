@@ -1,0 +1,14 @@
+D:\IARE\SEM-3\c#\week-3\3.3A_Week_Later\3.3A_Week_Later\bin\Debug\net8.0\3.3A_Week_Later.exe
+D:\IARE\SEM-3\c#\week-3\3.3A_Week_Later\3.3A_Week_Later\bin\Debug\net8.0\3.3A_Week_Later.deps.json
+D:\IARE\SEM-3\c#\week-3\3.3A_Week_Later\3.3A_Week_Later\bin\Debug\net8.0\3.3A_Week_Later.runtimeconfig.json
+D:\IARE\SEM-3\c#\week-3\3.3A_Week_Later\3.3A_Week_Later\bin\Debug\net8.0\3.3A_Week_Later.dll
+D:\IARE\SEM-3\c#\week-3\3.3A_Week_Later\3.3A_Week_Later\bin\Debug\net8.0\3.3A_Week_Later.pdb
+D:\IARE\SEM-3\c#\week-3\3.3A_Week_Later\3.3A_Week_Later\obj\Debug\net8.0\3.3A_Week_Later.GeneratedMSBuildEditorConfig.editorconfig
+D:\IARE\SEM-3\c#\week-3\3.3A_Week_Later\3.3A_Week_Later\obj\Debug\net8.0\3.3A_Week_Later.AssemblyInfoInputs.cache
+D:\IARE\SEM-3\c#\week-3\3.3A_Week_Later\3.3A_Week_Later\obj\Debug\net8.0\3.3A_Week_Later.AssemblyInfo.cs
+D:\IARE\SEM-3\c#\week-3\3.3A_Week_Later\3.3A_Week_Later\obj\Debug\net8.0\3.3A_Week_Later.csproj.CoreCompileInputs.cache
+D:\IARE\SEM-3\c#\week-3\3.3A_Week_Later\3.3A_Week_Later\obj\Debug\net8.0\3.3A_Week_Later.dll
+D:\IARE\SEM-3\c#\week-3\3.3A_Week_Later\3.3A_Week_Later\obj\Debug\net8.0\refint\3.3A_Week_Later.dll
+D:\IARE\SEM-3\c#\week-3\3.3A_Week_Later\3.3A_Week_Later\obj\Debug\net8.0\3.3A_Week_Later.pdb
+D:\IARE\SEM-3\c#\week-3\3.3A_Week_Later\3.3A_Week_Later\obj\Debug\net8.0\3.3A_Week_Later.genruntimeconfig.cache
+D:\IARE\SEM-3\c#\week-3\3.3A_Week_Later\3.3A_Week_Later\obj\Debug\net8.0\ref\3.3A_Week_Later.dll
