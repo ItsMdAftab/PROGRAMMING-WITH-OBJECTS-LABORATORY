@@ -1,0 +1,14 @@
+D:\IARE\SEM-3\c#\week-3\3.6Longest_Common_Ending\3.6Longest_Common_Ending\bin\Debug\net8.0\3.6Longest_Common_Ending.exe
+D:\IARE\SEM-3\c#\week-3\3.6Longest_Common_Ending\3.6Longest_Common_Ending\bin\Debug\net8.0\3.6Longest_Common_Ending.deps.json
+D:\IARE\SEM-3\c#\week-3\3.6Longest_Common_Ending\3.6Longest_Common_Ending\bin\Debug\net8.0\3.6Longest_Common_Ending.runtimeconfig.json
+D:\IARE\SEM-3\c#\week-3\3.6Longest_Common_Ending\3.6Longest_Common_Ending\bin\Debug\net8.0\3.6Longest_Common_Ending.dll
+D:\IARE\SEM-3\c#\week-3\3.6Longest_Common_Ending\3.6Longest_Common_Ending\bin\Debug\net8.0\3.6Longest_Common_Ending.pdb
+D:\IARE\SEM-3\c#\week-3\3.6Longest_Common_Ending\3.6Longest_Common_Ending\obj\Debug\net8.0\3.6Longest_Common_Ending.GeneratedMSBuildEditorConfig.editorconfig
+D:\IARE\SEM-3\c#\week-3\3.6Longest_Common_Ending\3.6Longest_Common_Ending\obj\Debug\net8.0\3.6Longest_Common_Ending.AssemblyInfoInputs.cache
+D:\IARE\SEM-3\c#\week-3\3.6Longest_Common_Ending\3.6Longest_Common_Ending\obj\Debug\net8.0\3.6Longest_Common_Ending.AssemblyInfo.cs
+D:\IARE\SEM-3\c#\week-3\3.6Longest_Common_Ending\3.6Longest_Common_Ending\obj\Debug\net8.0\3.6Longest_Common_Ending.csproj.CoreCompileInputs.cache
+D:\IARE\SEM-3\c#\week-3\3.6Longest_Common_Ending\3.6Longest_Common_Ending\obj\Debug\net8.0\3.6Longest_Common_Ending.dll
+D:\IARE\SEM-3\c#\week-3\3.6Longest_Common_Ending\3.6Longest_Common_Ending\obj\Debug\net8.0\refint\3.6Longest_Common_Ending.dll
+D:\IARE\SEM-3\c#\week-3\3.6Longest_Common_Ending\3.6Longest_Common_Ending\obj\Debug\net8.0\3.6Longest_Common_Ending.pdb
+D:\IARE\SEM-3\c#\week-3\3.6Longest_Common_Ending\3.6Longest_Common_Ending\obj\Debug\net8.0\3.6Longest_Common_Ending.genruntimeconfig.cache
+D:\IARE\SEM-3\c#\week-3\3.6Longest_Common_Ending\3.6Longest_Common_Ending\obj\Debug\net8.0\ref\3.6Longest_Common_Ending.dll
